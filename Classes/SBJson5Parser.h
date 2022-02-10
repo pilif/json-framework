@@ -31,7 +31,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "SBJson5StreamParser.h"
+#import "./SBJson5StreamParser.h"
 
 /**
  Block called when the parser has parsed an item. This could be once
